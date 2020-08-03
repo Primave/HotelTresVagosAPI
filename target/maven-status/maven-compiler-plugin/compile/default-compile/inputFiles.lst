@@ -1,0 +1,16 @@
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\models\response\GenericResponse.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\services\HuespedService.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\entities\reportes\ReportePorHuesped.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\repos\HuespedRepository.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\DemoApplication.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\entities\Reserva.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\excepciones\HuespedEdadException.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\entities\Huesped.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\entities\reportes\ReporteEstado.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\excepciones\HuespedInfoException.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\excepciones\HuespedDNIException.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\services\ReservaService.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\controllers\ReporteController.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\repos\ReservarRepository.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\services\ReporteService.java
+c:\ADA\API\hoteltresvagos\src\main\java\ar\com\ada\api\hoteltresvagos\controllers\HuespedController.java

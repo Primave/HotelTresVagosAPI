@@ -1,0 +1,16 @@
+ar\com\ada\api\hoteltresvagos\repos\ReservarRepository.class
+ar\com\ada\api\hoteltresvagos\entities\Huesped.class
+ar\com\ada\api\hoteltresvagos\DemoApplication.class
+ar\com\ada\api\hoteltresvagos\excepciones\HuespedInfoException.class
+ar\com\ada\api\hoteltresvagos\controllers\HuespedController.class
+ar\com\ada\api\hoteltresvagos\models\response\GenericResponse.class
+ar\com\ada\api\hoteltresvagos\excepciones\HuespedEdadException.class
+ar\com\ada\api\hoteltresvagos\services\HuespedService.class
+ar\com\ada\api\hoteltresvagos\entities\reportes\ReportePorHuesped.class
+ar\com\ada\api\hoteltresvagos\services\ReporteService.class
+ar\com\ada\api\hoteltresvagos\entities\reportes\ReporteEstado.class
+ar\com\ada\api\hoteltresvagos\controllers\ReporteController.class
+ar\com\ada\api\hoteltresvagos\services\ReservaService.class
+ar\com\ada\api\hoteltresvagos\entities\Reserva.class
+ar\com\ada\api\hoteltresvagos\excepciones\HuespedDNIException.class
+ar\com\ada\api\hoteltresvagos\repos\HuespedRepository.class
